@@ -1,0 +1,82 @@
+@media only screen and (max-width: 937px) {
+    .dialog {
+        width: 100%;
+        text-align: center;
+    }
+
+    .about-entry h1 {
+        text-align: center;
+        margin-top: 4%;
+        height: auto;
+    }
+
+    .dialog .btnWhite {
+        display: none;
+    }
+
+    .goal {
+        font-size: 3em;
+    }
+
+    .about-preview {
+        position: relative;
+        width: 100%;
+        text-align: center;
+        padding: 4%;
+        margin-top: 45%;
+    }
+
+    .about-preview .btnWhite {
+        width: 100%;
+        color: black;
+        background-color: #f76d11;
+        border: 2px solid #f76d11;
+        border-radius: 10px;
+    }
+    
+    .about-me-main {
+        height: auto;
+        padding: 5% 1%;
+    }
+
+    .about-card {
+        width: 90%;
+        text-align: center;
+    }
+
+    .about-card .btnOrange {
+        width: 80%;
+        margin-bottom: 10%;
+        border-radius: 10px;
+        margin: 5% auto;
+    }
+
+    .continue {
+        display: none;
+    }
+
+    .skills {
+        height: auto;
+    }
+
+    .skill-card {
+        margin-bottom: 5%;
+    }
+
+    .social {
+        display: none;
+    }
+
+    .contact-main {
+        height: auto;
+    }
+
+    .contact-form {
+        padding: 5%;
+        margin-bottom: 5%;
+    }
+
+    .btnSendForm {
+        margin-bottom: 5%;
+    }
+  }
